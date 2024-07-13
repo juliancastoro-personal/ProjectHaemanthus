@@ -1,5 +1,6 @@
 # ProjectHaemanthus
 An integrated plant monitoring and watering system.
+
 <img src="docs/project_plan.png" alt="POC plans" width="300"/>
 
 ## Table of Contents
